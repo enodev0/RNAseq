@@ -55,4 +55,4 @@ Once you have the directory tree set up, run the pipeline:
 The per-sample count files will be available under the **Counts** directory.
 
 ## License
-MIT
+The workflow license is MIT. The bpipe executable is licensed under BSD, available [here](https://github.com/ssadedin/bpipe/blob/master/LICENSE)
